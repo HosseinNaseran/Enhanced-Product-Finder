@@ -1,1 +1,1 @@
-# Enhanced-Product-Finder
+# Enhanced Product Finder
