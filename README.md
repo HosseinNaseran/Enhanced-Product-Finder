@@ -1,5 +1,5 @@
 # Enhanced Product Finder
-this is better version    VS  <a src:https://github.com/HosseinNaseran/ProductFinder.git >ProductFinder</a>
-simlpe ProductFinder : 
+this is better version    VS  <a src=HosseinNaseran/ProductFinder.git>ProductFinder</a>
 
-https://github.com/HosseinNaseran/ProductFinder.git
+
+
